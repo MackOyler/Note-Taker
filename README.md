@@ -1,4 +1,4 @@
-# Express.js Challenge: Note Taker
+# Note Taker
 
 ## Description
 
@@ -39,4 +39,4 @@ Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.her
 
 ### Contact
 
-[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
+[Mack Oyler on GitHub](http://github.com/MackOyler)
